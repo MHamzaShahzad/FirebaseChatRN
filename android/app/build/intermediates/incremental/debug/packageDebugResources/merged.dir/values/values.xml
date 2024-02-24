@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="app_name">chat</string>
+    <string name="gcm_defaultSenderId" translatable="false">975046350469</string>
+    <string name="google_api_key" translatable="false">AIzaSyBA6MmoqileNjSA2YGYOP3MR6h6ONNS31k</string>
+    <string name="google_app_id" translatable="false">1:975046350469:android:ea17edfb03a0b6e17dfbec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBA6MmoqileNjSA2YGYOP3MR6h6ONNS31k</string>
+    <string name="google_storage_bucket" translatable="false">chat-14979.appspot.com</string>
+    <string name="project_id" translatable="false">chat-14979</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>
